@@ -1,0 +1,12 @@
+{
+  "name": "@stalker8610/license-controller",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Voronin Anton <stalker8610@gmail.com>",
+  "license": "ISC"
+}
