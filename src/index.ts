@@ -1,5 +1,5 @@
-import path from 'path';
-import crypto from 'crypto';
+import * as path from 'path';
+import * as crypto from 'crypto';
 import { promises as fsPromises } from 'fs';
 
 export type LicenseData = {

@@ -6,7 +6,6 @@
         "strict": true,
         "module": "ESNext",
         "moduleResolution": "Node16",
-        "esModuleInterop": true,
         "target": "ES2015"
     }
 }
